@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SOHO（feat. YZERR、AK-69）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2025-12-18T06:47:12.449557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SOHO (feat. YZERR & AK-69)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/01_SOHO_(feat._YZERR_&_AK-69)_BAD_HOP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOHO (feat. YZERR & AK-69)",
+      "artist": "BAD HOP, YZERR, AK-69",
+      "has_synced": false,
+      "path": "select/pl_01_SOHO_(feat._YZERR_&_AK-69)_BAD_HOP,_YZERR,_AK-69.txt"
+    }
+  ]
+}
